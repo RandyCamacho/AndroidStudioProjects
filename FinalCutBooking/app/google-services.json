@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700078735522",
+    "firebase_url": "https://finalcut-feadb.firebaseio.com",
+    "project_id": "finalcut-feadb",
+    "storage_bucket": "finalcut-feadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700078735522:android:f474572a71d388dd",
+        "android_client_info": {
+          "package_name": "com.example.finalcutbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700078735522-7jv9u7s768f8nnbk341if4thva9c8n52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEz-6K6rAAZQ6gPLOQNZeoYEVyhjrTXMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700078735522-7jv9u7s768f8nnbk341if4thva9c8n52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

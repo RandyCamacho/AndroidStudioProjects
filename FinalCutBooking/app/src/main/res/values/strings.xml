@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Final Cut Booking</string>
+    <string name="title_activity_directions">Map</string>
+    <string name="access_token">pk.eyJ1Ijoici1jYW1hY2hvIiwiYSI6ImNqdmFwZ2R5NTA2dmo0MXA4cG9mZjRzMXcifQ.oKrA1odz-2ewFGfLKeXLLQ</string>
+</resources>
